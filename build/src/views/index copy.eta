@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend Deca:wght@300;400;600;700;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="hero-section">
+      <img class="image-13-icon" alt="" src="./public/image-13.svg" /><img
+        class="image-14-icon"
+        alt=""
+        src="./public/image-14.svg"
+      />
+      <div class="group-parent">
+        <div class="vuesaxtwotonecard-send-parent">
+          <img
+            class="vuesaxtwotonecard-send-icon"
+            alt=""
+            src="./public/vuesaxtwotonecardsend.svg"
+          />
+          <div class="accessibility-parent">
+            <div class="accessibility">accessibility</div>
+            <b class="b"><%=accessibility%></b>
+          </div>
+        </div>
+        <div class="vuesaxtwotoneshield-tick-parent">
+          <img
+            class="vuesaxtwotonecard-send-icon"
+            alt=""
+            src="./public/vuesaxtwotoneshieldtick.svg"
+          />
+          <div class="type-parent">
+            <div class="type">Type</div>
+            <b class="<%= type %>"><%= type %></b>
+          </div>
+        </div>
+      </div>
+      <img
+        class="hero-section-child"
+        alt=""
+        src="./public/group-33114.svg"
+      /><img class="hero-section-item" alt="" src="./public/group-33127.svg" />
+      <div class="price-parent">
+        <div class="price">Price</div>
+        <div class="div"><%= price %></div>
+      </div>
+      <img
+        class="hero-section-inner"
+        alt=""
+        src="./public/group-33128.svg"
+      /><img class="group-icon" alt="" src="./public/group-33115.svg" />
+      <div class="ransel-genali-25l">Ransel Genali 25L 01</div>
+      <div class="parent">
+        <div class="div1"><%= key %></div>
+        <div class="frame-parent">
+          <div class="frame-group">
+            <div class="frame-container">
+              <div class="<%= activity %>-parent">
+                <div class="<%= activity %>">
+                  <%= activity %>
+                </div>
+                <div class="outdoor-sporting">
+                  Outdoor & Sporting Goods Company
+                </div>
+              </div>
+              <div class="group-container">
+                <div class="rectangle-parent">
+                  <div class="group-child"></div>
+                  <div class="explore-more">EXPLORE MORE</div>
+                  <img class="group-item" alt="" src="./public/arrow-3.svg" />
+                </div>
+                <div class="we-have-more">
+                  We have more special goods for you 🚀
+                </div>
+              </div>
+            </div>
+            <div class="frame-div">
+              <div class="group">
+                <div class="div2">50+</div>
+                <div class="adventure-product">adventure product</div>
+                <div class="more-than">More than</div>
+              </div>
+              <div class="container">
+                <div class="div3">75+</div>
+                <div class="adventure-product">OUTLET IN INDONESIA</div>
+                <div class="more-than">More than</div>
+              </div>
+            </div>
+          </div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

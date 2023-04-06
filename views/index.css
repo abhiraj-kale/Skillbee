@@ -1,0 +1,366 @@
+.image-13-icon,
+.image-14-icon {
+  position: absolute;
+  top: 968px;
+  left: 0;
+  width: 772px;
+  height: 150px;
+}
+.image-14-icon {
+  top: 962px;
+  height: 156px;
+}
+.vuesaxtwotonecard-send-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+}
+.accessibility {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 14px;
+  text-transform: uppercase;
+}
+.accessibility-parent,
+.b {
+  position: absolute;
+  width: 162px;
+}
+.b {
+  top: 23px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 100px;
+  text-transform: uppercase;
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  height: 24px;
+}
+.accessibility-parent {
+  top: 7px;
+  left: 80px;
+  height: 47px;
+}
+.vuesaxtwotonecard-send-parent {
+  position: relative;
+  width: 242px;
+  height: 60px;
+  flex-shrink: 0;
+}
+.type {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 14px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  width: 71px;
+  height: 24px;
+}
+.social,
+.type-parent {
+  position: absolute;
+  width: 145px;
+}
+.social {
+  top: 28px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 100px;
+  text-transform: uppercase;
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  height: 24px;
+}
+.type-parent {
+  top: 2px;
+  left: 80px;
+  height: 52px;
+}
+.vuesaxtwotoneshield-tick-parent {
+  position: relative;
+  width: 225px;
+  height: 60px;
+  flex-shrink: 0;
+}
+.group-parent {
+  position: absolute;
+  top: 1010px;
+  left: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 119px;
+}
+.hero-section-child,
+.hero-section-item {
+  position: absolute;
+  top: 451px;
+  left: 772px;
+  width: 668px;
+  height: 668px;
+}
+.hero-section-item {
+  left: 1106px;
+  width: 334px;
+  height: 334px;
+}
+.div,
+.price {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 40px;
+  text-transform: uppercase;
+}
+.div {
+  color: #000;
+}
+.price-parent {
+  position: absolute;
+  top: 72px;
+  left: 1286px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: #9497a8;
+}
+.group-icon,
+.hero-section-inner {
+  position: absolute;
+  top: 520px;
+  left: 1175px;
+  width: 196px;
+  height: 196px;
+}
+.group-icon {
+  top: 734px;
+  left: 1056px;
+  width: 100px;
+  height: 100px;
+}
+.div1,
+.ransel-genali-25l {
+  line-height: 30px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.ransel-genali-25l {
+  position: absolute;
+  top: 727px;
+  left: 1190px;
+  font-size: 12px;
+  text-decoration: underline;
+  color: var(--color-white);
+  text-align: center;
+  justify-content: center;
+  width: 166px;
+  height: 24px;
+}
+.div1 {
+  position: relative;
+  font-weight: 300;
+  width: 176px;
+}
+.explore-the-nightlife,
+.outdoor-sporting {
+  position: relative;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}
+.explore-the-nightlife {
+  font-weight: 800;
+  display: inline-block;
+  width: 667px;
+}
+.outdoor-sporting {
+  font-size: var(--font-size-5xl);
+  line-height: 100px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 516px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.explore-the-nightlife-of-your-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d93a31;
+  width: 249px;
+  height: 60px;
+}
+.explore-more {
+  position: absolute;
+  top: 14px;
+  left: 29.6px;
+  letter-spacing: -0.02em;
+  line-height: 100px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 122.48px;
+  height: 32px;
+}
+.group-item {
+  position: absolute;
+  top: 26.32px;
+  left: 176.57px;
+  width: 44.39px;
+  height: 7.36px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 249px;
+  height: 60px;
+}
+.we-have-more {
+  position: absolute;
+  top: 74px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 30px;
+  font-weight: 300;
+  color: var(--color-gray);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 351px;
+}
+.group-container {
+  position: relative;
+  width: 351px;
+  height: 104px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.frame-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.adventure-product,
+.div2,
+.more-than {
+  position: absolute;
+  text-transform: uppercase;
+}
+.div2 {
+  top: 15px;
+  left: 0;
+  font-size: var(--font-size-61xl);
+  letter-spacing: -0.02em;
+  line-height: 100px;
+  font-weight: 800;
+  display: inline-block;
+  width: 152px;
+}
+.adventure-product,
+.more-than {
+  top: 103px;
+  left: 6px;
+  line-height: 30px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 176px;
+}
+.more-than {
+  top: 0;
+  font-weight: 300;
+}
+.group {
+  position: relative;
+  width: 182px;
+  height: 133px;
+  flex-shrink: 0;
+}
+.div3 {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  font-size: var(--font-size-61xl);
+  letter-spacing: -0.02em;
+  line-height: 100px;
+  text-transform: uppercase;
+  font-weight: 800;
+  display: inline-block;
+  width: 192px;
+}
+.container {
+  position: relative;
+  width: 192px;
+  height: 133px;
+  flex-shrink: 0;
+}
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 94px;
+  font-size: var(--font-size-sm);
+}
+.frame-group {
+  gap: 48px;
+}
+.frame-group,
+.frame-parent,
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  gap: 80px;
+  font-size: 72px;
+}
+.parent {
+  position: absolute;
+  top: 72px;
+  left: 80px;
+  gap: 4px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+}
+.hero-section {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1118px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-silver);
+  font-family: var(--font-lexend-deca);
+}
