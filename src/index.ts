@@ -5,7 +5,7 @@ import fs = require('fs');
 import path = require('path');
 import ejs = require('ejs');
 
-interface Data {
+export interface Data {
   activity: string;
   type: string;
   participants: number;

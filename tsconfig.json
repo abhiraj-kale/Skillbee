@@ -6,6 +6,8 @@
   },
   "include": [
     "src/**/*.ts",
-    "test/**/*.ts"
-  ]
+    "__tests__/**/*.ts"
+  ],
+  "target": "esnext",
+  "module": "commonjs",
 }
