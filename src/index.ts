@@ -28,7 +28,6 @@ async function getUsers() {
       axios
         .request(options)
         .then(({data}: {data: Data}) => {
-
           ejs.renderFile(
             path.join(__dirname, 'views') + '/index.ejs',
             {data: data},
