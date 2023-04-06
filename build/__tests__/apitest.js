@@ -1,15 +1,11 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-/* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable node/no-unpublished-import */
 /* eslint-disable prettier/prettier */
 /* eslint-disable quotes */
 const axios_1 = require("axios");
 describe('Get Data API', () => {
     it('checks if valid data is received from boredapi.com', () => {
-        const expected = { name: 'component name' };
-        const actual = { name: 'component name', type: 'form' };
-        expect(actual).toMatchObject(expected);
         const options = {
             method: 'GET',
             url: 'https://www.boredapi.com/api/activity',
